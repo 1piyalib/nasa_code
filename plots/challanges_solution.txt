@@ -1,0 +1,25 @@
+0. Stated learning Unity engine
+ Not our expertise - switched to Python after couple of weeks
+1.  How to visualize the data quickly? The landing and destination array number was wrong in guide (Data File Row Number 5161666)
+solution - create a scatter plot with color slope, superimpose landing and destination site
+2. Too much time time to process
+use numpi - still slow
+3. Plotly z axis takes a list of lists - try to understand
+4. csv file is too big to debug and too slow.
+   create a small csv file to debug
+5. Rabit hole chase to use matplotlib surface plot it needs z = f(x,y)
+    Use  plotly mesh plot
+6. Plotly can not plot all data
+    Find region of data with most coverage
+7. How to undersytand the x y scanning
+
+8. Get data into a nxn matrix
+
+9. Debugging data
+  create small subset of data
+10. How do we verify azimuth and elevation calculations?
+
+11. azimuth and elevation calculations - cartesian vs spherica
+
+12. Point to presentation of calculations
+
